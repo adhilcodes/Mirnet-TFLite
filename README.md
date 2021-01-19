@@ -4,6 +4,8 @@
 
  - This model is capable of enhancing low-light images upto a great extent. 
  
+ ![](./sample/enhanced.jpg)
+ 
  # Note 
  
   - This model was quantized using dynamic range quantization as described [here](https://www.tensorflow.org/lite/performance/post_training_quant).
