@@ -24,6 +24,6 @@
 
 # Contributions
 
-Those who are intrested to make an app for this are welcome (Preferably Flutter[ _ ](https://medium.com/flutterdevs/implementing-tensorflow-lite-in-flutter-c21738e9d35c) Developers)
+Those who are intrested to make it a Flutter app are welcome.
 
 Reach out to me [here](http://adhilcodes.me/)
